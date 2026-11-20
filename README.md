@@ -10,12 +10,12 @@ Imagens e vídeos dos posts do Instagram da Eu Casei de Lafer (MP Lafer 1980, ca
 | 05/11/2026 | 18:00 | Letícia & Marcello · a chegada | Carrossel · 6 imagens | agendado | [P2](posts/2026-11-05_P2_leticia-marcello-chegada) |
 | 12/11/2026 | 18:00 | Ana & Rodrigo · pré-wedding | Carrossel · 6 imagens | agendado | [P3](posts/2026-11-12_P3_ana-rodrigo-prewedding) |
 | 19/11/2026 | 18:00 | Letícia & Marcello · fim de tarde | Reel · 12 s | rascunho | [P4](posts/2026-11-19_P4_reel-leticia-marcello-fim-de-tarde) |
-| 26/11/2026 | 18:00 | Daniela & Mateus · bastidores | Carrossel · 7 imagens | rascunho | [P5](posts/2026-11-26_P5_daniela-mateus-bastidores) |
+| 26/11/2026 | 18:00 | Chegue de Lafer. | Reel · 13 s | rascunho | [P5](posts/2026-11-26_P5_reel-chegue-de-lafer) |
 | 03/12/2026 | 18:00 | Editorial Classic Bride | Carrossel · 7 imagens | rascunho | [D1](posts/2026-12-03_D1_editorial-classic-bride) |
-| 10/12/2026 | 18:00 | Como reservar o Lafer | Carrossel · 6 imagens | rascunho | [D2](posts/2026-12-10_D2_como-reservar) |
-| 17/12/2026 | 18:00 | Os detalhes também contam a história | Carrossel · 6 imagens | rascunho | [D3](posts/2026-12-17_D3_detalhes-leticia-marcello) |
+| 10/12/2026 | 18:00 | Como reservar o Lafer | Carrossel · 3 imagens | rascunho | [D2](posts/2026-12-10_D2_como-reservar) |
+| 17/12/2026 | 18:00 | Os detalhes também contam a história | Carrossel · 5 imagens | rascunho | [D3](posts/2026-12-17_D3_detalhes) |
 | 24/12/2026 | 10:00 | Boas festas | Foto única | rascunho | [D4](posts/2026-12-24_D4_boas-festas) |
-| 31/12/2026 | 10:00 | Obrigado por cada história | Carrossel · 6 imagens | rascunho | [D5](posts/2026-12-31_D5_obrigado-por-cada-historia) |
+| 31/12/2026 | 10:00 | Agradecemos por cada história | Carrossel · 3 imagens | rascunho | [D5](posts/2026-12-31_D5_agradecemos-por-cada-historia) |
 | Qui · 7 jan | — | E se chover no dia do ensaio? | Carrossel | ideia | — |
 | Qui · 14 jan | — | O que está incluso no carro da noiva | Carrossel | ideia | — |
 | Qui · 21 jan | — | Casamento de dezembro: a chegada da noiva | Carrossel | ideia | — |
